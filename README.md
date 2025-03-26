@@ -21,17 +21,3 @@ Other emrassingly parallel tasks (such as vectorization) can use any fork-based 
 Finally, a streaming API means that  users do not have to load all the data into RAM. 
 
 
-# Contributing
-
-The package has [issue tracker on GitHub](https://github.com/dselivanov/text2vec/issues) where I'm filing feature requests and notes for future work. Any ideas are appreciated.
-
-Contributors are welcome. You can help by: 
-
-- testing and leaving feedback on the [GitHub issuer tracker](https://github.com/dselivanov/text2vec/issues) (preferably) or directly by e-mail
-- forking and contributing (check [code our style guide](https://github.com/dselivanov/text2vec/wiki/Code-style-guide)). Vignettes, docs, tests, and use cases are very welcome
-- by giving me a star on [project page](https://github.com/dselivanov/text2vec) :-)
-
-# License
-
-GPL (>= 2)
-
